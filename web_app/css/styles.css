@@ -1,0 +1,36 @@
+body {
+    background-image: url('/web_app/foto/bg1.jpg');
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {
+    height: 15rem;
+    width: auto;
+    padding-bottom: 2rem;
+}
+
+.warna { 
+    background-color: rgb(231, 231, 231);
+}
+
+#form {
+    border-radius: 1rem;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.719);
+}
+
+h1{
+    text-shadow: 2px 2px 5px whitesmoke;
+}
+
+.homee{
+    padding: 4rem;
+}
