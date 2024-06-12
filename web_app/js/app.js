@@ -1,10 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize the application
     initialize();
 
-    // Function to initialize any shared components or perform common tasks
     function initialize() {
-        // Example: Set up a common event listener for navigation
         document.querySelectorAll('.nav-link').forEach(function(link) {
             link.addEventListener('click', function(event) {
                 event.preventDefault();
@@ -14,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Example utility function to send HTTP requests using Fetch API
+
     function sendHttpRequest(method, url, data) {
         return fetch(url, {
             method: method,
