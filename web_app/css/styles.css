@@ -17,8 +17,8 @@ img {
     padding-bottom: 2rem;
 }
 
-.warna { 
-    background-color: rgb(231, 231, 231);
+.warna {
+    background-color: rgb(202, 204, 197);
 }
 
 #form {
@@ -27,10 +27,10 @@ img {
     background-color: rgba(255, 255, 255, 0.719);
 }
 
-h1{
+h1 {
     text-shadow: 2px 2px 5px whitesmoke;
 }
 
-.homee{
-    padding: 4rem;
+.logo{
+    padding-top: 5rem;
 }
